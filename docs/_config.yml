@@ -21,7 +21,8 @@
 title: Audel Diaz
 email: hola@audeldiaz.work
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal blog, in this place I'm gonna share with you my experiences in Programming and Cloud Computing.
+  Welcome to my personal blog, in this place I'm gonna share with you my experiences in: 
+  Linux, Open Source, Programming and Cloud Computing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.audeldiaz.work" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: AudelDiaz
